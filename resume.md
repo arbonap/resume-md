@@ -1,12 +1,10 @@
-# <center>[Patricia Arbona](www.patriciaarbona.com)</center>
-### <center> <arbonap@gmail.com> || (614) 329-8370 || [@arbonap](https://www.github.com/arbonap) </center>
+# [Patricia Arbona](www.patriciaarbona.com)</center>
+### <center> <arbonap@gmail.com> || (614) 329-8370 || [@arbonap](https://www.github.com/arbonap)
 
 ___
 **Technical Skills**: Ruby, Ruby on Rails, Test Driven Development, RSpec, Python, Flask, JavaScript, JQuery, Backbone, Coffeescript, ES6, React, Jasmine, Mocha, Chai, Enzyme, HTML/CSS/SASS, Bootstrap, Flexbox, ActiveRecord, SQL, Postgres, bash, Git
 
-**Languages**: Spanish (fluent)
-
-####  **Recognitions, Awards, & Projects**
+###  **Recognitions, Awards, & Projects**
 
 **Interviewed in Cosmopolitan**, November 2016
 
@@ -36,7 +34,7 @@ ___
 - built with the Indiegogo API, Rails, and React
 
 
-#### **Work Experience**
+### **Work Experience**
 [**Omada Health**](https://www.omadahealth.com/), October 2016 — Mar. 2017
 
 *Software Engineering Intern*, San Francisco, CA
@@ -59,13 +57,15 @@ Built full-stack feature where participants take photos of their meals and it is
 *Translator, Editorial Assistant (Spanish Department)*, Columbus, OH
 - Edited, wrote, and translated for *¡Así Se Dice!* Spanish textbook in spite of company-wide lay-offs
 
-#### **Leadership**
+### **Leadership**
 ##### Double Union
 Lead Developer and Open Source Maintainer
 
 - Open Source Maintainer for [arooo](https://github.com/doubleunion/arooo), a membership management application for hackerspaces
 
-#### **Education**
+**Languages**: Spanish (fluent)
+
+### **Education**
 **Hackbright Academy**, Jan. 2016 — March 2016
 
 *Software Engineering Fellowship*, San Francisco, CA
