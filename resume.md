@@ -1,5 +1,5 @@
 # <center>[Patricia Arbona](www.patriciaarbona.com)</center>
-### <center> <mailto:arbonap@gmail.com> || (614) 329-8370 || [@arbonap](https://www.github.com/arbonap) </center>
+### <center> <arbonap@gmail.com> || (614) 329-8370 || [@arbonap](https://www.github.com/arbonap) </center>
 
 ___
 **Technical Skills**: Ruby, Ruby on Rails, Test Driven Development, RSpec, Python, Flask, JavaScript, JQuery, Backbone, Coffeescript, ES6, React, Jasmine, Mocha, Chai, Enzyme, HTML/CSS/SASS, Bootstrap, Flexbox, ActiveRecord, SQL, Postgres, bash, Git
