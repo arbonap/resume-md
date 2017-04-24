@@ -18,7 +18,7 @@ ___
 
 - Resource aggregation app for organizations that aid and house human-traffickee survivors, so that communal resources can be shared among verified, partnered non-profits and NGOs.
 
-**[Arooo](https://github.com/doubleunion/arooo) **, April 2016 — Present
+**[Arooo](https://github.com/doubleunion/arooo)**, April 2016 — Present
 - Open-source maintainer for feminist hackerspace management app written in Rails & JavaScript
 
 **[Tic-Tac-Toe](https://github.com/arbonap/python-tic-tac-toe)**, March 2017
@@ -66,12 +66,12 @@ Lead Developer and Open Source Maintainer
 - Open Source Maintainer for [arooo](https://github.com/doubleunion/arooo), a membership management application for hackerspaces
 
 #### **Education**
-** Hackbright Academy **, Jan. 2016 — March 2016
+**Hackbright Academy**, Jan. 2016 — March 2016
 
 *Software Engineering Fellowship*, San Francisco, CA
 - intensive, selective, 12-week full-time Flask web-development program
 
-** The University of Chicago **, Sept. 2010 — June 2014
+**The University of Chicago**, Sept. 2010 — June 2014
 
 *Bachelor of Arts with Honors*, *Latin American Studies*, Chicago, IL
 - Thesis: *¡Ni una bomba más! Fighting for Justice Then and Now: The Vieques Anti-Navy Movement*
