@@ -58,7 +58,7 @@ Built full-stack feature where participants take photos of their meals and it is
 - Edited, wrote, and translated for *¡Así Se Dice!* Spanish textbook in spite of company-wide lay-offs
 
 ### **Leadership**
-[** Double Union **](https://doubleunion.org/)
+[**Double Union**](https://doubleunion.org/)
 
 Lead Developer and Open Source Maintainer
 
