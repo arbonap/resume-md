@@ -1,4 +1,4 @@
-# [Patricia Arbona](www.patriciaarbona.com)</center>
+# [Patricia Arbona](www.patriciaarbona.com)
 ### <center> <arbonap@gmail.com> || (614) 329-8370 || [@arbonap](https://www.github.com/arbonap)
 
 ___
