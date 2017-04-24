@@ -58,7 +58,8 @@ Built full-stack feature where participants take photos of their meals and it is
 - Edited, wrote, and translated for *¡Así Se Dice!* Spanish textbook in spite of company-wide lay-offs
 
 ### **Leadership**
-##### Double Union
+[** Double Union **](https://doubleunion.org/)
+
 Lead Developer and Open Source Maintainer
 
 - Open Source Maintainer for [arooo](https://github.com/doubleunion/arooo), a membership management application for hackerspaces
